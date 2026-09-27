@@ -1,0 +1,135 @@
+[
+  {
+    "path": "src/blink_repro/__init__.py",
+    "source_sha256": "4f339832e8c525e786939d6f6f08eb3ea060673690714cf1f313a2e21e0d720c",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "4f339832e8c525e786939d6f6f08eb3ea060673690714cf1f313a2e21e0d720c",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/signal_utils.py",
+    "source_sha256": "7bfd032611642df35ca3ac0c557765e21fe442bfd15b80732b324d22d87b0695",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "7bfd032611642df35ca3ac0c557765e21fe442bfd15b80732b324d22d87b0695",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/preprocessing.py",
+    "source_sha256": "4a0a41be15ff5c8a4ac67c1b89c131778f075e19c685862a64d12ae8380da689",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "4a0a41be15ff5c8a4ac67c1b89c131778f075e19c685862a64d12ae8380da689",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/strict_single_channel.py",
+    "source_sha256": "0eaec0a7a9f5033c78339f3504228450918f2bdc203b15c8967f49543dde1133",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "d3946e9f863da2e4fffd8565c0fcaa704f85e613c6a11c4c1c4207355744e30f",
+    "modification": "Removed only deprecated Cho reader branch and unused cho_fs argument."
+  },
+  {
+    "path": "src/blink_repro/review_statistics.py",
+    "source_sha256": "c54dcc690482c531a3e10fb09bdebee05e071df5eead60283e29a61ce078bef9",
+    "provenance": "local implementation source",
+    "published_sha256": "c54dcc690482c531a3e10fb09bdebee05e071df5eead60283e29a61ce078bef9",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/methods/base.py",
+    "source_sha256": "4d2f57c446c41d369cd2fdcfa5f885884cd64465745a31ce599a4445c2a7586f",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "4d2f57c446c41d369cd2fdcfa5f885884cd64465745a31ce599a4445c2a7586f",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/methods/fg_awpr_rls.py",
+    "source_sha256": "fbaba0ca516e42a26234b6402c7c02c65eca966b21ecdcb75adb96c7b1a445da",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "54f98fbce6e4a7e5c4ebe5ad89c4be1c38c5e9d00ff523d46d881ca256d26d01",
+    "modification": "Retained loader; excluded legacy dataset/multichannel adapters; allowlisted strict core."
+  },
+  {
+    "path": "src/blink_repro/methods/mca.py",
+    "source_sha256": "1a47a3f3c2f8058c71444fcd934b1c0f7755211a40289dc99c4fbc75ebd5ee32",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "1a47a3f3c2f8058c71444fcd934b1c0f7755211a40289dc99c4fbc75ebd5ee32",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/methods/mca_legacy.py",
+    "source_sha256": "c8f6b4c1efce679af0d6760af574ecf6bbf22ad7d96afa44a4283a6134665408",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "c8f6b4c1efce679af0d6760af574ecf6bbf22ad7d96afa44a4283a6134665408",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/methods/fbse_ewt_lpatv.py",
+    "source_sha256": "cf24548103ba9d5cdb376cb727d1543ce2361bf6e33fbdb6d5dbd44ba8343469",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "cf24548103ba9d5cdb376cb727d1543ce2361bf6e33fbdb6d5dbd44ba8343469",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "proposed_reference/fg_awpr_rls_simulated_reference.py",
+    "source_sha256": "e2f85e4641128b0dd36b45e51377517e99aecd1dc82820274b31575ebe82090c",
+    "provenance": "strict-run source hash verified",
+    "published_sha256": "e2f85e4641128b0dd36b45e51377517e99aecd1dc82820274b31575ebe82090c",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "tests/test_mca.py",
+    "source_sha256": "abde3bd58f8364ebd7fc4eb8b82387337ae563e73a8a1c056c65fc74eb49cf6f",
+    "provenance": "local implementation source",
+    "published_sha256": "abde3bd58f8364ebd7fc4eb8b82387337ae563e73a8a1c056c65fc74eb49cf6f",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "requirements.txt",
+    "source_sha256": "467e465caa28f5cd8b50178886405746c006bc03f2630d0e4fa26d2b4f6c47b0",
+    "provenance": "local implementation source",
+    "published_sha256": "467e465caa28f5cd8b50178886405746c006bc03f2630d0e4fa26d2b4f6c47b0",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "src/blink_repro/methods/ovme_reg.py",
+    "source_sha256": "c77bdab8da5d824246221934ae18f9f6b0039edca2ede4f68f760239fd6b94ce",
+    "provenance": "frozen OVME code snapshot",
+    "published_sha256": "c77bdab8da5d824246221934ae18f9f6b0039edca2ede4f68f760239fd6b94ce",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "tests/test_ovme_reg.py",
+    "source_sha256": "35828e991f92a9b12516fb8ffe4be9feb7859a538060656f9b7e9ed854ef8d13",
+    "provenance": "frozen OVME code snapshot",
+    "published_sha256": "35828e991f92a9b12516fb8ffe4be9feb7859a538060656f9b7e9ed854ef8d13",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "official_ovme/VME_LICENSE.txt",
+    "source_sha256": "00de2ef0c7885cb2c22a1de64f28eb50383b05fa427152a53d5b14616683c9af",
+    "provenance": "frozen OVME code snapshot",
+    "published_sha256": "00de2ef0c7885cb2c22a1de64f28eb50383b05fa427152a53d5b14616683c9af",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "official_ovme/HHO_LICENSE.txt",
+    "source_sha256": "31aba8ed0080666a2105263d7de1747b78e16c2bf39255a9b82c17763a024532",
+    "provenance": "frozen OVME code snapshot",
+    "published_sha256": "31aba8ed0080666a2105263d7de1747b78e16c2bf39255a9b82c17763a024532",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "evaluation/metric_core.py",
+    "source_sha256": "961af1532296822a8678aa4140704224f90ed4099870ad3b5bdd357abfdbecbd",
+    "provenance": "paper-metrics-v1.0 evaluator used for manuscript",
+    "published_sha256": "961af1532296822a8678aa4140704224f90ed4099870ad3b5bdd357abfdbecbd",
+    "modification": "none; byte-identical copy"
+  },
+  {
+    "path": "evaluation/compute_dbp.py",
+    "source_sha256": "3f8a439549ce83ccd3a1179066838783d3214faf8d7f4aac63cb2712dfc06356",
+    "provenance": "D_BP evaluator used for manuscript",
+    "published_sha256": "ea94f7efc144ce6b475ca0c2d48256583ec37ee3d02478f92ec3ae6fd31719a8",
+    "modification": "Replaced two private default paths with relative paths; evaluator functions unchanged."
+  }
+]

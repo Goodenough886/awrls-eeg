@@ -1,0 +1,105 @@
+{
+  "mode": "strict_single_channel_v1",
+  "datasets": {
+    "simulated": {
+      "fs": 200.0
+    },
+    "Kaya2018": {
+      "directory": "Kalya",
+      "glob": "*.mat",
+      "targets": [
+        "Fp1",
+        "Fp2",
+        "Fz"
+      ],
+      "target_fs": 200.0,
+      "preprocessing": {
+        "reference_mode": "none",
+        "trim_zero_edges": true,
+        "minimum_zero_edge_s": 0.25,
+        "robust_center": true,
+        "highpass_hz": 0.5,
+        "lowpass_hz": 45.0,
+        "filter_order": 4,
+        "filter_segment_s": 120.0,
+        "final_robust_center": true
+      }
+    }
+  },
+  "awrls": {
+    "minimum_similarity": 0.85,
+    "lowpass_hz": 12.0,
+    "wavelet_target_hz": 12.0,
+    "rls_order": 12,
+    "rls_forgetting_factor": 0.995,
+    "rls_delta": 0.01,
+    "rls_passes": 2,
+    "max_wavelet_level": 6
+  },
+  "processing": {
+    "awrls_block_s": 30.0,
+    "awrls_overlap_s": 2.0,
+    "baseline_block_s": 120.0,
+    "baseline_overlap_s": 2.0
+  },
+  "evaluation": {
+    "common_detector": {
+      "lowpass_hz": 12,
+      "order": 4,
+      "energy_window_s": 0.08,
+      "min_distance_s": 0.25,
+      "half_width_s": 0.45,
+      "min_duration_s": 0.1
+    }
+  },
+  "baselines": {
+    "MCA": {
+      "wavelet": "db4",
+      "level": 4,
+      "threshold": "soft",
+      "lambda": 4.0,
+      "iterations": 14,
+      "inner_iterations": 5,
+      "threshold_schedule": "linear"
+    },
+    "FBSE-EWT-LPATV": {
+      "fbse_block_s": 5.0,
+      "fbse_overlap_s": 1.0,
+      "gamma_upper_hz": 75.0,
+      "polynomial_order": 3,
+      "polynomial_block_s": 1.0,
+      "polynomial_overlap_s": 0.5,
+      "tv_lambda": 0.35,
+      "admm_rho": 1.0,
+      "admm_iterations": 120,
+      "admm_tolerance": 1e-05,
+      "outer_iterations": 3,
+      "preserve_uncovered_residual": true
+    }
+  },
+  "ovme": {
+    "alpha_min": 1000.0,
+    "alpha_max": 10000.0,
+    "omega_min_hz": 0.5,
+    "omega_max_hz": 7.5,
+    "population": 30,
+    "iterations": 20,
+    "vme_max_iterations": 300,
+    "vme_tolerance": 1e-07,
+    "vme_tau": 0.0,
+    "objective": "stated_mse",
+    "polarity": "positive",
+    "before_peak_s": 0.125,
+    "after_peak_s": 0.375,
+    "block_s": 3.0,
+    "overlap_s": 1.0,
+    "seed": 20260926
+  },
+  "real_seconds": 30.0,
+  "paper_dbp": {
+    "sampling_rate_hz": 200.0,
+    "window_seconds": 4.0,
+    "overlap_fraction": 0.5,
+    "nfft": 800
+  }
+}

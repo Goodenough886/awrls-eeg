@@ -1,0 +1,7 @@
+numpy>=1.26,<2.3
+scipy>=1.12,<1.16
+pandas>=2.1,<2.3
+matplotlib>=3.8,<3.10
+PyWavelets>=1.5,<1.9
+PyYAML>=6,<7
+h5py>=3.10,<4

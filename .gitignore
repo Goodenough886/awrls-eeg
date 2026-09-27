@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.pytest_cache/
+data/
+results/
+*.npy
+*.npz
+*.mat
+*.edf
+*.bdf
+*.docx
+*.pdf
+*.log
