@@ -1,0 +1,1207 @@
+{
+  "official_collection": "https://api.figshare.com/v2/collections/3917698/articles",
+  "records": 75,
+  "all_md5_match": true,
+  "files": [
+    {
+      "official_name": "CLA-SubjectJ-170508-3St-LRHand-Inter.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLA-SubjectJ-170508-3St-LRHand-Inter.mat",
+      "article_id": 6818798,
+      "doi": "10.6084/m9.figshare.6818798.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "819cb208b3921bead840146838af252d",
+      "actual_md5": "819cb208b3921bead840146838af252d",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "37aa5036c76dd8170fb68c36243d422a1fbab58f83a539a58209286e96e1268d"
+    },
+    {
+      "official_name": "CLA-SubjectJ-170504-3St-LRHand-Inter.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLA-SubjectJ-170504-3St-LRHand-Inter.mat",
+      "article_id": 6818792,
+      "doi": "10.6084/m9.figshare.6818792.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "dd6822ef935c92a5d65c421d028508c7",
+      "actual_md5": "dd6822ef935c92a5d65c421d028508c7",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "6c24334a12247f5659eeddeb6292f46e4ecd05c173dac16bd25b2073d3f11a8f"
+    },
+    {
+      "official_name": "CLA-SubjectJ-170510-3St-LRHand-Inter.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLA-SubjectJ-170510-3St-LRHand-Inter.mat",
+      "article_id": 6818795,
+      "doi": "10.6084/m9.figshare.6818795.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "886d1dc00644a68b60dc8dc556a6abd7",
+      "actual_md5": "886d1dc00644a68b60dc8dc556a6abd7",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "2ce2114880eb35db5b77262c712d580465fa4bd3b87aa0b896b994a4b46c1075"
+    },
+    {
+      "official_name": "5F-SubjectF-160210-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectF-160210-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818780,
+      "doi": "10.6084/m9.figshare.6818780.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "d1bf8a9f8a4ae8fecff95fbe5c368583",
+      "actual_md5": "d1bf8a9f8a4ae8fecff95fbe5c368583",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "bb2280ec96d093035210f05e7db029283a73ef4f682c80e53838825027730f0f"
+    },
+    {
+      "official_name": "5F-SubjectH-160804-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectH-160804-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818789,
+      "doi": "10.6084/m9.figshare.6818789.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a68d99c5f4087cb2ff354afb8d0c60cd",
+      "actual_md5": "a68d99c5f4087cb2ff354afb8d0c60cd",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "668bb4f8485946bc2f661e6c39127c09e8171d60efe2b777c09f6c7f27e77548"
+    },
+    {
+      "official_name": "5F-SubjectC-160429-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectC-160429-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818774,
+      "doi": "10.6084/m9.figshare.6818774.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "7d86c92e172061530b59cbd425b4e9da",
+      "actual_md5": "7d86c92e172061530b59cbd425b4e9da",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "684600f8e275e1e89f50307c965516605f6b4b8dc9bec18477c6769d26e78964"
+    },
+    {
+      "official_name": "5F-SubjectG-160413-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectG-160413-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818783,
+      "doi": "10.6084/m9.figshare.6818783.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "4cdba2e0c07583ad007961e1cc626792",
+      "actual_md5": "4cdba2e0c07583ad007961e1cc626792",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "45e443e2f98fe6db30d51895c40085a0aacaa2b38a06710c5b209fa0c1718934"
+    },
+    {
+      "official_name": "5F-SubjectB-160311-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectB-160311-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818777,
+      "doi": "10.6084/m9.figshare.6818777.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "f6ddc2e620a38fef9d5b93189de09efd",
+      "actual_md5": "f6ddc2e620a38fef9d5b93189de09efd",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "597ceb541124c5eedd5d6806f18be5f4dedf7319284a55e1072d1603d126c9e1"
+    },
+    {
+      "official_name": "5F-SubjectI-160719-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectI-160719-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818786,
+      "doi": "10.6084/m9.figshare.6818786.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "dfe6c46940270aad72d3e7787093096e",
+      "actual_md5": "dfe6c46940270aad72d3e7787093096e",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "9000280d0cae145dbf0421b271a0d903609ddd2531878ed19cbcf67ad0439b48"
+    },
+    {
+      "official_name": "5F-SubjectA-160408-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectA-160408-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818732,
+      "doi": "10.6084/m9.figshare.6818732.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "044fb457fe3d29f217e4ad141fc967d0",
+      "actual_md5": "044fb457fe3d29f217e4ad141fc967d0",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "ca85b60ff78ee6e3f465ef036f73a8093178945f01b159ae855b551b7d4a9779"
+    },
+    {
+      "official_name": "5F-SubjectG-160428-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectG-160428-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818753,
+      "doi": "10.6084/m9.figshare.6818753.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "d3b0cbf087611721364958a9a19527a6",
+      "actual_md5": "d3b0cbf087611721364958a9a19527a6",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "b21fb86d8a92bee16b4d6528207e084d96d243af1dca7a2e07e18b282e9ac8a8"
+    },
+    {
+      "official_name": "5F-SubjectB-160309-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectB-160309-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818771,
+      "doi": "10.6084/m9.figshare.6818771.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a8f0bfad1c863c55aef4eac9e5a7cf9f",
+      "actual_md5": "a8f0bfad1c863c55aef4eac9e5a7cf9f",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "b3cd4de4ca243aeb9bc8fa13a75e5c97ea747a32e75ec0224978d04bbe098aee"
+    },
+    {
+      "official_name": "5F-SubjectE-160415-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectE-160415-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818741,
+      "doi": "10.6084/m9.figshare.6818741.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "7f4bfce7308c529c3733b4b68c6d5ac5",
+      "actual_md5": "7f4bfce7308c529c3733b4b68c6d5ac5",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "b8d2e7fc1eb5d84b23e33273401f8fb5d09cd290c3ee8e727c965da03d0bea0e"
+    },
+    {
+      "official_name": "5F-SubjectI-160723-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectI-160723-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818762,
+      "doi": "10.6084/m9.figshare.6818762.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "53b5b2ca0fac7341fb4c2cb86c39c46b",
+      "actual_md5": "53b5b2ca0fac7341fb4c2cb86c39c46b",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "84cc573170949e9d9372506f590c70de6dca6d409ecf2437426dc2958b8e78cc"
+    },
+    {
+      "official_name": "5F-SubjectE-160429-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectE-160429-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818744,
+      "doi": "10.6084/m9.figshare.6818744.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "af03807c04cd7a6c0e47020d6d47412b",
+      "actual_md5": "af03807c04cd7a6c0e47020d6d47412b",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "45de5d2f6e632c5a965b87257169e1f4f26f785e71826f63f8defc2100533816"
+    },
+    {
+      "official_name": "5F-SubjectE-160321-5St-SGLHand-HFREQ.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectE-160321-5St-SGLHand-HFREQ.mat",
+      "article_id": 6818765,
+      "doi": "10.6084/m9.figshare.6818765.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a31d3c930c12d4d96e247fc74aabc7b5",
+      "actual_md5": "a31d3c930c12d4d96e247fc74aabc7b5",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "199218bf23826c07f205603f6a5a92d981aecfccba725b42e00e1717a175358e"
+    },
+    {
+      "official_name": "5F-SubjectB-160316-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectB-160316-5St-SGLHand.mat",
+      "article_id": 6818681,
+      "doi": "10.6084/m9.figshare.6818681.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a1a683d82d20f521230040d0e2543f8f",
+      "actual_md5": "a1a683d82d20f521230040d0e2543f8f",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "fff73002bc1b6c72e2415df7d14b537b19bd445e17b392bfc03fb4b49e83364a"
+    },
+    {
+      "official_name": "5F-SubjectC-151204-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectC-151204-5St-SGLHand.mat",
+      "article_id": 6818684,
+      "doi": "10.6084/m9.figshare.6818684.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a7820e6e777d604cf74b6d788887817d",
+      "actual_md5": "a7820e6e777d604cf74b6d788887817d",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "1eafe36117141dfa60649585645df6b634c2131cea2683cdf3f83980bc29e9af"
+    },
+    {
+      "official_name": "5F-SubjectF-151027-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectF-151027-5St-SGLHand.mat",
+      "article_id": 6818678,
+      "doi": "10.6084/m9.figshare.6818678.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "bc8a8af4df52378e24464d9039300523",
+      "actual_md5": "bc8a8af4df52378e24464d9039300523",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "46e5e1a360a85b5923a6ae6dbf06422113f637c63d8db522dade5e77059413e3"
+    },
+    {
+      "official_name": "5F-SubjectB-151110-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectB-151110-5St-SGLHand.mat",
+      "article_id": 6818687,
+      "doi": "10.6084/m9.figshare.6818687.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "44abca9cd3470edffd45ff26887cd70b",
+      "actual_md5": "44abca9cd3470edffd45ff26887cd70b",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "5832dd0fd5870a10b7ae14e947cc2210d5db281b1d3a992f1c2f43194783e922"
+    },
+    {
+      "official_name": "5F-SubjectA-160405-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectA-160405-5St-SGLHand.mat",
+      "article_id": 6818672,
+      "doi": "10.6084/m9.figshare.6818672.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "9b3b34ffb47a28491e5764e129d9fe64",
+      "actual_md5": "9b3b34ffb47a28491e5764e129d9fe64",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "c2c0312b0cf76de5eba77259e7c2ff919b0908d33f46ce8aa8e965a338a7fdae"
+    },
+    {
+      "official_name": "NoMT-SubjectL-161026-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectL1610260StNoMotor.mat",
+      "article_id": 5554666,
+      "doi": "10.6084/m9.figshare.5554666.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "0f29706c3d68181f286570e979a8af60",
+      "actual_md5": "0f29706c3d68181f286570e979a8af60",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "7f1d3d1aaa40446c4f667b887a91dc657351e31dda2e0c7afa5577b6496ffd43"
+    },
+    {
+      "official_name": "5F-SubjectF-160209-5St-SGLHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\5F-SubjectF-160209-5St-SGLHand.mat",
+      "article_id": 6818675,
+      "doi": "10.6084/m9.figshare.6818675.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "f901d609fedfa444d2528be7e7e68986",
+      "actual_md5": "f901d609fedfa444d2528be7e7e68986",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "a7bd96afb301cb0958d42301e541ba9447481d41ed37fb006a6fd348de8f2676"
+    },
+    {
+      "official_name": "NoMT-SubjectK-161025-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectK1610250StNoMotor.mat",
+      "article_id": 5554660,
+      "doi": "10.6084/m9.figshare.5554660.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "4b9ad20ed9523b45afb9ff0a22470d06",
+      "actual_md5": "4b9ad20ed9523b45afb9ff0a22470d06",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "18768c9df95af4f3731cdf9025e3bc53981f8c96b3bae858f81910a81712b396"
+    },
+    {
+      "official_name": "NoMT-SubjectM-161116-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectM1611160StNoMotor.mat",
+      "article_id": 5554663,
+      "doi": "10.6084/m9.figshare.5554663.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "d46af5247b25d049fbce0b1ef451efce",
+      "actual_md5": "d46af5247b25d049fbce0b1ef451efce",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "420fa3313aa97034683251acbe2f581855a46dd3f89132447a30b442f801931a"
+    },
+    {
+      "official_name": "NoMT-SubjectH-160628-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectH1606280StNoMotor.mat",
+      "article_id": 5554648,
+      "doi": "10.6084/m9.figshare.5554648.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "177eb18e67c9853b3ef7ca67d046c80c",
+      "actual_md5": "177eb18e67c9853b3ef7ca67d046c80c",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "ba7df1b8a9b49830b9e2b6962a3b2b917372569fc4224ced8478f6c34ba3c417"
+    },
+    {
+      "official_name": "NoMT-SubjectJ-161026-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectJ1610260StNoMotor.mat",
+      "article_id": 5554657,
+      "doi": "10.6084/m9.figshare.5554657.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "090b04ecf89005fc52d00ca0c3538659",
+      "actual_md5": "090b04ecf89005fc52d00ca0c3538659",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "91c71f21d9e81cb556c5ccd45cbbbca0d68c2cb04848b85e1becf58a373c1379"
+    },
+    {
+      "official_name": "NoMT-SubjectF-160422-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectF1604220StNoMotor.mat",
+      "article_id": 5554651,
+      "doi": "10.6084/m9.figshare.5554651.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a8c5574f94febbbb447bcecf1f8b48cf",
+      "actual_md5": "a8c5574f94febbbb447bcecf1f8b48cf",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "74e143bc400ab918f87d409b52effb8294cff3a0531de7de52a5b8b7a392d87e"
+    },
+    {
+      "official_name": "HaLT-SubjectM-161117-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectM1611176StLRHandLegTongue.mat",
+      "article_id": 5554645,
+      "doi": "10.6084/m9.figshare.5554645.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a694ddeb795162741ebd75bc60c5e68c",
+      "actual_md5": "a694ddeb795162741ebd75bc60c5e68c",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e803b8e65612790cd0393dfce0672c8bd44df16b915012274b9e8f3702131403"
+    },
+    {
+      "official_name": "NoMT-SubjectI-160512-0St-NoMotor.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\NoMTSubjectI1605120StNoMotor.mat",
+      "article_id": 5554654,
+      "doi": "10.6084/m9.figshare.5554654.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "357eede268b69e52ca7202b87de78eba",
+      "actual_md5": "357eede268b69e52ca7202b87de78eba",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e504923fa50ce5419a2ddda6b3d196b4b158cae182b7dbe219ffe00bdd4c7af9"
+    },
+    {
+      "official_name": "HaLT-SubjectM-161108-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectM1611086StLRHandLegTongue.mat",
+      "article_id": 5554639,
+      "doi": "10.6084/m9.figshare.5554639.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "ea49aa52c99ffe79a1b162d3d9d8992d",
+      "actual_md5": "ea49aa52c99ffe79a1b162d3d9d8992d",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "7878aee65d721aae4a88f562f960d7143ef244ed1c71c32f71cde041421c29a0"
+    },
+    {
+      "official_name": "HaLT-SubjectK-161108-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectK1611086StLRHandLegTongue.mat",
+      "article_id": 5554633,
+      "doi": "10.6084/m9.figshare.5554633.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "870642bf5d7983a50a0face5d27ce05b",
+      "actual_md5": "870642bf5d7983a50a0face5d27ce05b",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "d9e67fc0f680a27c20d55fd43f6ab51cfacd70e7b2de349b75c0a5ee837a98b2"
+    },
+    {
+      "official_name": "HaLT-SubjectJ-161121-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectJ1611216StLRHandLegTongue.mat",
+      "article_id": 5554627,
+      "doi": "10.6084/m9.figshare.5554627.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "af523330b661b846012a3f3405bfe963",
+      "actual_md5": "af523330b661b846012a3f3405bfe963",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "4e2140f537cf2b4bde8665f254b29b56e8bf0fe6ae404133323294488e46126f"
+    },
+    {
+      "official_name": "HaLT-SubjectM-161124-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectM1611246StLRHandLegTongue.mat",
+      "article_id": 5554642,
+      "doi": "10.6084/m9.figshare.5554642.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "6f684b35fffd9a94aca102cc0571ed73",
+      "actual_md5": "6f684b35fffd9a94aca102cc0571ed73",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e1f9eb7e3214116d7ca1e599a8505e3ed7b32422e753dadc8b3245c3c24ef7d5"
+    },
+    {
+      "official_name": "HaLT-SubjectL-161205-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Documents\\Codex\\2026-10-28\\c-users-13665-desktop-eegqz\\work\\awrls3\\provenance\\kaya_missing_originals\\HaLT-SubjectL-161205-6St-LRHandLegTongue.mat",
+      "article_id": 5554636,
+      "doi": "10.6084/m9.figshare.5554636.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "5f4f30a0c53cf2c03753827df9c4714b",
+      "actual_md5": "5f4f30a0c53cf2c03753827df9c4714b",
+      "matched": true,
+      "retrieved_this_run": true,
+      "sha256": "88b82100d31f1f25fcd626e8d7e6dbc2be570a885098b86d056bc8e6dc6022c5"
+    },
+    {
+      "official_name": "HaLT-SubjectL-161116-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectL1611166StLRHandLegTongue.mat",
+      "article_id": 5554630,
+      "doi": "10.6084/m9.figshare.5554630.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "a9a82ea310375bf1deb517fe27ff96fa",
+      "actual_md5": "a9a82ea310375bf1deb517fe27ff96fa",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "f8fc6435e5b4929d0edb3f378aa04d0b12fb2ad548a3520faf8f330b61183bb7"
+    },
+    {
+      "official_name": "HaLT-SubjectI-160609-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectI1606096StLRHandLegTongue.mat",
+      "article_id": 5554615,
+      "doi": "10.6084/m9.figshare.5554615.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "bdbf99ffa311c6363fb087e3546eda8f",
+      "actual_md5": "bdbf99ffa311c6363fb087e3546eda8f",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e1e7bebec4bea71b048ba4a4732f083cd5cd3afb9de423eb474d3898b9e5bc20"
+    },
+    {
+      "official_name": "HaLT-SubjectK-161027-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectK1610276StLRHandLegTongue.mat",
+      "article_id": 5554624,
+      "doi": "10.6084/m9.figshare.5554624.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "93c4e494e39cc638cd6b38eddd79d8bb",
+      "actual_md5": "93c4e494e39cc638cd6b38eddd79d8bb",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "9a4e58c4b89141e187d2bee91ae75fbb3dcb82cc8fbaea7591726eb3d361a59b"
+    },
+    {
+      "official_name": "HaLT-SubjectG-160412-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectG1604126StLRHandLegTongue.mat",
+      "article_id": 5554609,
+      "doi": "10.6084/m9.figshare.5554609.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "cefa66d71254b3fb59e7e2c9ce5c84ca",
+      "actual_md5": "cefa66d71254b3fb59e7e2c9ce5c84ca",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "8d12df3a90988201e2070305da15ce9ce7e358ed1f8a0785e69911102659304d"
+    },
+    {
+      "official_name": "HaLT-SubjectH-160720-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectH1607206StLRHandLegTongue.mat",
+      "article_id": 5554618,
+      "doi": "10.6084/m9.figshare.5554618.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "3215138d48388fa6f7715516e8ed5628",
+      "actual_md5": "3215138d48388fa6f7715516e8ed5628",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "3f82aec9377694b58313684db581cda0f730079cfa51bd4b4ec3572c6b291789"
+    },
+    {
+      "official_name": "HaLT-SubjectH-160722-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectH1607226StLRHandLegTongue.mat",
+      "article_id": 5554612,
+      "doi": "10.6084/m9.figshare.5554612.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "15768ea4e56785933ae97ab7ba0467ff",
+      "actual_md5": "15768ea4e56785933ae97ab7ba0467ff",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "a384cf0e7b881fd8380966c1a6d88e573319d4f5d10525669605de22a661caef"
+    },
+    {
+      "official_name": "HaLT-SubjectI-160628-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectI1606286StLRHandLegTongue.mat",
+      "article_id": 5554621,
+      "doi": "10.6084/m9.figshare.5554621.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "b8894db87e177d966be08b9549aad952",
+      "actual_md5": "b8894db87e177d966be08b9549aad952",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "d000d3d320bde8f29483689416f57512913b6a2a3fab539a8e3f075e2a74f059"
+    },
+    {
+      "official_name": "HaLT-SubjectE-160304-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectE1603046StLRHandLegTongue.mat",
+      "article_id": 5554597,
+      "doi": "10.6084/m9.figshare.5554597.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "6813d5cfccb7026ded2734a4915e566c",
+      "actual_md5": "6813d5cfccb7026ded2734a4915e566c",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "9078a641682f21a232b89cc2eda3e7144b46dccb99c6047fafda15b3f6bf881b"
+    },
+    {
+      "official_name": "HaLT-SubjectG-160322-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectG1603226StLRHandLegTongue.mat",
+      "article_id": 5554606,
+      "doi": "10.6084/m9.figshare.5554606.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "dcedcf1588738414e19cb7a38f7c3a09",
+      "actual_md5": "dcedcf1588738414e19cb7a38f7c3a09",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "5d11df8f66cadde8e98eb8df2f2d53918213574a94a666308b451aaf62ed97ef"
+    },
+    {
+      "official_name": "HaLT-SubjectF-160204-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectF1602046StLRHandLegTongue.mat",
+      "article_id": 5554591,
+      "doi": "10.6084/m9.figshare.5554591.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "c4b5e3f436fd7357a97ff12f74456dfc",
+      "actual_md5": "c4b5e3f436fd7357a97ff12f74456dfc",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "5fcde4383d097477063bb2ab654a0cf7f502a0a12498ff9b68d75fac22d193ed"
+    },
+    {
+      "official_name": "HaLT-SubjectF-160202-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectF1602026StLRHandLegTongue.mat",
+      "article_id": 5554600,
+      "doi": "10.6084/m9.figshare.5554600.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "16eecc575c32d13f939bf4489759bb53",
+      "actual_md5": "16eecc575c32d13f939bf4489759bb53",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e14e02bbbdda082b1de56326b01a65e0d9739b202d0836899bd87488ff1060e8"
+    },
+    {
+      "official_name": "HaLT-SubjectF-160203-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectF1602036StLRHandLegTongue.mat",
+      "article_id": 5554594,
+      "doi": "10.6084/m9.figshare.5554594.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "ef77fe7b5e9eccf4b37ab8d6ff118f78",
+      "actual_md5": "ef77fe7b5e9eccf4b37ab8d6ff118f78",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "5a930357c2dfa44ff909434f234a96dc6285554344d67d427b029472056f91c5"
+    },
+    {
+      "official_name": "HaLT-SubjectG-160301-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectG1603016StLRHandLegTongue.mat",
+      "article_id": 5554603,
+      "doi": "10.6084/m9.figshare.5554603.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "f069d837e913180583a8c473b23c6b5b",
+      "actual_md5": "f069d837e913180583a8c473b23c6b5b",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "69d0c50a431c260a0a2a10546e6627247404aa3b1e915326fbaad24379217fb9"
+    },
+    {
+      "official_name": "HaLT-SubjectE-160219-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectE1602196StLRHandLegTongue.mat",
+      "article_id": 5554579,
+      "doi": "10.6084/m9.figshare.5554579.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "7c54ffc8389334d405f9f87b3ee41b3f",
+      "actual_md5": "7c54ffc8389334d405f9f87b3ee41b3f",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "be8af029179e01b2e17c494253ae3114887a1cf1b2696fc4f33f57c75c078dc6"
+    },
+    {
+      "official_name": "HaLT-SubjectE-160226-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectE1602266StLRHandLegTongue.mat",
+      "article_id": 5554588,
+      "doi": "10.6084/m9.figshare.5554588.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "611d980c01859b8c19cc28cadec2bae4",
+      "actual_md5": "611d980c01859b8c19cc28cadec2bae4",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "9a3a4f042d0996ff0f04c34ca0a7fef417724f541d1cc04adf5bd0789ed2575f"
+    },
+    {
+      "official_name": "HaLT-SubjectB-160218-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectB1602186StLRHandLegTongue.mat",
+      "article_id": 5554567,
+      "doi": "10.6084/m9.figshare.5554567.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "f75056d2f29f31e56ad44510eecfd194",
+      "actual_md5": "f75056d2f29f31e56ad44510eecfd194",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "922f198399b375ad75d4f4350d436097a88efdd89d6869ca72199e48e42ed9f3"
+    },
+    {
+      "official_name": "HaLT-SubjectC-160302-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectC1603026StLRHandLegTongue.mat",
+      "article_id": 5554582,
+      "doi": "10.6084/m9.figshare.5554582.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "82fb6f8fbece7218eef4c8d7ea420127",
+      "actual_md5": "82fb6f8fbece7218eef4c8d7ea420127",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "a357bd705cf1d64c6272938d502b0afbf96d89a49d200dc857d079f3dff27148"
+    },
+    {
+      "official_name": "HaLT-SubjectB-160229-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectB1602296StLRHandLegTongue.mat",
+      "article_id": 5554573,
+      "doi": "10.6084/m9.figshare.5554573.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "321cf9261ac6e9ff419c01627bec9a54",
+      "actual_md5": "321cf9261ac6e9ff419c01627bec9a54",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "c9fb0ed3632e5ea2d74e681f400631380d08344830ad8241782a1e981c34f42f"
+    },
+    {
+      "official_name": "HaLT-SubjectC-160224-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectC1602246StLRHandLegTongue.mat",
+      "article_id": 5554585,
+      "doi": "10.6084/m9.figshare.5554585.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "ddf40471fa5a528d6a9c0656b0af7323",
+      "actual_md5": "ddf40471fa5a528d6a9c0656b0af7323",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "012346da00f13d00c09d95edfa46f10f648b8beb3a878c721a99e22e3058b63c"
+    },
+    {
+      "official_name": "HaLT-SubjectA-160308-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectA1603086StLRHandLegTongue.mat",
+      "article_id": 5554564,
+      "doi": "10.6084/m9.figshare.5554564.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "122d095be5cb52b6cd19db65af02f0ae",
+      "actual_md5": "122d095be5cb52b6cd19db65af02f0ae",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "76c9f2eb53f2c1e6192f1bd7082e24c8c5b7c4c362089d3bac6320e340970bb7"
+    },
+    {
+      "official_name": "HaLT-SubjectA-160310-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectA1603106StLRHandLegTongue.mat",
+      "article_id": 5554561,
+      "doi": "10.6084/m9.figshare.5554561.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "b4942c3a77abf52f3b7f0f083cb88b43",
+      "actual_md5": "b4942c3a77abf52f3b7f0f083cb88b43",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "0f2f0d913e29ff150c2929b163e0151e8b2d4f469de2b11985e13114938cb2df"
+    },
+    {
+      "official_name": "HaLT-SubjectA-160223-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectA1602236StLRHandLegTongue.mat",
+      "article_id": 5554555,
+      "doi": "10.6084/m9.figshare.5554555.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "423ba07b037d2c36c8eb46c91b707ff1",
+      "actual_md5": "423ba07b037d2c36c8eb46c91b707ff1",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "fc8647c55ddcb9854de234a35e4261576ecca957a8381d3ef6554aa209f89231"
+    },
+    {
+      "official_name": "HaLT-SubjectB-160225-6St-LRHandLegTongue.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\HaLTSubjectB1602256StLRHandLegTongue.mat",
+      "article_id": 5554558,
+      "doi": "10.6084/m9.figshare.5554558.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "e4caa8e52d9889f99e281dce2403dc48",
+      "actual_md5": "e4caa8e52d9889f99e281dce2403dc48",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "db04df85c92a1b82e1195154e5382d7a6783aee74c0da476af30f4fababb3ac7"
+    },
+    {
+      "official_name": "FREEFORM-SubjectB-151111-2St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\FREEFORMSubjectB1511112StLRHand.mat",
+      "article_id": 5554546,
+      "doi": "10.6084/m9.figshare.5554546.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "42b7b714c11d1e6f24f77586160324ef",
+      "actual_md5": "42b7b714c11d1e6f24f77586160324ef",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "6063b18d474fa34c84eb6cb99fad3b8277f2ce15753045282694565fd1386e51"
+    },
+    {
+      "official_name": "FREEFORM-SubjectC-151208-2St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\FREEFORMSubjectC1512082StLRHand.mat",
+      "article_id": 5554549,
+      "doi": "10.6084/m9.figshare.5554549.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "903f311ff709738c4716a66372d81c7d",
+      "actual_md5": "903f311ff709738c4716a66372d81c7d",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "08b2cb633b3531f1b68f034b66ef14304c3868a2f6a366874c1d29e45f372eaa"
+    },
+    {
+      "official_name": "FREEFORM-SubjectC-151210-2St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\FREEFORMSubjectC1512102StLRHand.mat",
+      "article_id": 5554552,
+      "doi": "10.6084/m9.figshare.5554552.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "67b28f91db2b18e0fa080106948be767",
+      "actual_md5": "67b28f91db2b18e0fa080106948be767",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "8e94a2e4d0aafbf3c98954fbdbd1396cc35c7abbcc536f4bdf28b18ddb7b3b0f"
+    },
+    {
+      "official_name": "CLA-SubjectF-150928-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectF1509283StLRHand.mat",
+      "article_id": 5554537,
+      "doi": "10.6084/m9.figshare.5554537.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "991a50e9115588ef26649568921c1b11",
+      "actual_md5": "991a50e9115588ef26649568921c1b11",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "4f43b20c1ff41199b01597bf20152b53fed9ab06da1f8239947843f81e55e1cd"
+    },
+    {
+      "official_name": "CLA-SubjectF-150916-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectF1509163StLRHand.mat",
+      "article_id": 5554531,
+      "doi": "10.6084/m9.figshare.5554531.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "799077a37092ae2f97fd6d2de2055de1",
+      "actual_md5": "799077a37092ae2f97fd6d2de2055de1",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "66e6c666686d84a662bc311cab9bf9a0dab108b6f667d0111a3cddeea425a238"
+    },
+    {
+      "official_name": "CLA-SubjectF-150917-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectF1509173StLRHand.mat",
+      "article_id": 5554540,
+      "doi": "10.6084/m9.figshare.5554540.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "00ef866cba5b97e5b6ecc80deed12217",
+      "actual_md5": "00ef866cba5b97e5b6ecc80deed12217",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "cd1ab0db2067df71a7f037b45569f487e4c06ace701a0b2bdbbe6716024d66c0"
+    },
+    {
+      "official_name": "CLA-SubjectE-160122-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectE1601223StLRHand.mat",
+      "article_id": 5554534,
+      "doi": "10.6084/m9.figshare.5554534.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "2eead257c549011e86df6e162a952245",
+      "actual_md5": "2eead257c549011e86df6e162a952245",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "2832bd9a447bc1c4417215e08c0429e43e627f2776ec7d715c5fd30cb020da16"
+    },
+    {
+      "official_name": "CLA-SubjectE-160119-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectE1601193StLRHand.mat",
+      "article_id": 5554528,
+      "doi": "10.6084/m9.figshare.5554528.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "07d0c3e3e93e709b84028bd0bba159b7",
+      "actual_md5": "07d0c3e3e93e709b84028bd0bba159b7",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "391f7b3a45561063015b0a21197abaf0aa2ba3c1a09fc0540b5c072903c10eb2"
+    },
+    {
+      "official_name": "CLA-SubjectB-151215-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectB1512153StLRHand.mat",
+      "article_id": 5554510,
+      "doi": "10.6084/m9.figshare.5554510.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "d4ab2d2fe150b19c0ae2b42c84ec47d6",
+      "actual_md5": "d4ab2d2fe150b19c0ae2b42c84ec47d6",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "e9dbbf0793dac45b9365d9661a466e4793f8b5710d82397f6744c643a6f4e87f"
+    },
+    {
+      "official_name": "CLA-SubjectC-151126-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectC1511263StLRHand.mat",
+      "article_id": 5554519,
+      "doi": "10.6084/m9.figshare.5554519.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "b48f2faf425c4cea3176e274ff6b0b09",
+      "actual_md5": "b48f2faf425c4cea3176e274ff6b0b09",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "1e712ed3c1af8c8a479be974db08d83613b9b8cecaa5c4ea841123a87f0495d1"
+    },
+    {
+      "official_name": "CLA-SubjectC-151223-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectC1512233StLRHand.mat",
+      "article_id": 5554513,
+      "doi": "10.6084/m9.figshare.5554513.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "325fbf0916f778b26fec991d376f7af7",
+      "actual_md5": "325fbf0916f778b26fec991d376f7af7",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "30f7341bc6002aac019218298247299510bc66a3f22f28881fccdd38cf85730f"
+    },
+    {
+      "official_name": "CLA-SubjectD-151125-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectD1511253StLRHand.mat",
+      "article_id": 5554522,
+      "doi": "10.6084/m9.figshare.5554522.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "6aefa8eb843ec7830fef30123114cd03",
+      "actual_md5": "6aefa8eb843ec7830fef30123114cd03",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "5f37d736eeeb63502c5cfa683ab94b14ebfd003c9d4f34206fc181857a05920e"
+    },
+    {
+      "official_name": "CLA-SubjectC-151216-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectC1512163StLRHand.mat",
+      "article_id": 5554516,
+      "doi": "10.6084/m9.figshare.5554516.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "093e6d3ccf3fb400ac3deed23ed1c657",
+      "actual_md5": "093e6d3ccf3fb400ac3deed23ed1c657",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "3b1bee0d3a435be7ff73331173f54a7b31955892aa566de90244b6e4ed8cb40d"
+    },
+    {
+      "official_name": "CLA-SubjectE-151225-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectE1512253StLRHand.mat",
+      "article_id": 5554525,
+      "doi": "10.6084/m9.figshare.5554525.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "92b14efbea1427d528948b6b3454f606",
+      "actual_md5": "92b14efbea1427d528948b6b3454f606",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "32a9512d0e8e5b44acefa8137246ef5cb24d62059066c65949810988e69b9911"
+    },
+    {
+      "official_name": "CLA-SubjectB-151019-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectB1510193StLRHand.mat",
+      "article_id": 5554501,
+      "doi": "10.6084/m9.figshare.5554501.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "93f48f5b2951d421f9eb41467881d8f2",
+      "actual_md5": "93f48f5b2951d421f9eb41467881d8f2",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "b291bd1c6af001545e2feabccfd8bf4247560ecc301a7ce08e3d2a3387dca10f"
+    },
+    {
+      "official_name": "CLA-SubjectA-160108-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Documents\\Codex\\2026-10-28\\c-users-13665-desktop-eegqz\\work\\awrls3\\provenance\\kaya_missing_originals\\CLA-SubjectA-160108-3St-LRHand.mat",
+      "article_id": 5554504,
+      "doi": "10.6084/m9.figshare.5554504.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "d363436ae34b998986b03e03f768e8da",
+      "actual_md5": "d363436ae34b998986b03e03f768e8da",
+      "matched": true,
+      "retrieved_this_run": true,
+      "sha256": "642ee8d6114e05b6b2f6f57d8f12dc20ed25504bbbdb6edcd80959e74a7d4538"
+    },
+    {
+      "official_name": "CLA-SubjectB-151020-3St-LRHand.mat",
+      "local_path": "C:\\Users\\13665\\Desktop\\eegqz\\databasic\\Kalya\\CLASubjectB1510203StLRHand.mat",
+      "article_id": 5554507,
+      "doi": "10.6084/m9.figshare.5554507.v1",
+      "license": {
+        "value": 2,
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "official_md5": "51fd73b9fec4042f0db521f6d0566c84",
+      "actual_md5": "51fd73b9fec4042f0db521f6d0566c84",
+      "matched": true,
+      "retrieved_this_run": false,
+      "sha256": "ef2d060c0970f9dd42d4f905eff1426d04cc70993a82267f18594b35bb83f095"
+    }
+  ]
+}

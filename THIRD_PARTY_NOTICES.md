@@ -2,17 +2,16 @@
 
 ## VME
 
-The VME component in `src/blink_repro/methods/ovme_reg.py` and the independently
-structured numerical translation in `tests/test_ovme_reg.py` are based on the
+The VME component in `baseline_source/src/blink_repro/methods/ovme_reg.py` are based on the
 author's VME v2 algorithm implementation. Copyright (c) 2020 Mojtaba Nazari.
 The full redistribution conditions and disclaimer are reproduced unchanged in
-`official_ovme/VME_LICENSE.txt`. No author endorsement is implied.
+`baseline_source/official_ovme/VME_LICENSE.txt`. No author endorsement is implied.
 
 ## Harris hawks optimization
 
-The HHO component port in `src/blink_repro/methods/ovme_reg.py` is based on the
+The HHO component port in `baseline_source/src/blink_repro/methods/ovme_reg.py` is based on the
 author implementation. Copyright (c) 2019 Ali Asghar Heidari. Its MIT License is
-reproduced unchanged in `official_ovme/HHO_LICENSE.txt`. This license does not
+reproduced unchanged in `baseline_source/official_ovme/HHO_LICENSE.txt`. This license does not
 license the repository's unrelated original code.
 
 ## ITMS exclusion

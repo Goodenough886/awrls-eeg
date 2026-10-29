@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "new_waveforms_verified": 13992,
+  "public_pairs": 554,
+  "public_baseline_rows": 11634,
+  "kaya_records": 75,
+  "kaya_subjects": 13,
+  "kaya_channels": 3,
+  "kaya_recipes": 2,
+  "kaya_variants": 12,
+  "kaya75_rows": 5400,
+  "kaya73_rows": 5256,
+  "channel_hours_per_recipe": {
+    "raw": 210.360625,
+    "silver": 210.36169583333333
+  },
+  "internal_legacy_baseline_rows_reused": 10500,
+  "new_internal_clean_rows": 900,
+  "frozen_previous_model_sources_unchanged": true,
+  "finished": "2026-10-29 16:37:10"
+}

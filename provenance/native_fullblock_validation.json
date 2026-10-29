@@ -1,0 +1,69 @@
+{
+  "cases": [
+    {
+      "key": "5F-SubjectA-160405-5St-SGLHand_Fp1",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 8.526512829121202e-14,
+      "relative_input_rms": 3.886303007774685e-15,
+      "seconds": 12.976075400001719
+    },
+    {
+      "key": "5F-SubjectA-160405-5St-SGLHand_Fp2",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 1.2612133559741778e-13,
+      "relative_input_rms": 5.679458453681165e-15,
+      "seconds": 13.204526200002874
+    },
+    {
+      "key": "5F-SubjectA-160405-5St-SGLHand_Fz",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 4.707345624410664e-14,
+      "relative_input_rms": 9.440422673350581e-15,
+      "seconds": 15.027868800003489
+    },
+    {
+      "key": "5F-SubjectA-160408-5St-SGLHand-HFREQ_Fp1",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 1.829647544582258e-13,
+      "relative_input_rms": 8.276242247477793e-15,
+      "seconds": 13.116665199995623
+    },
+    {
+      "key": "5F-SubjectA-160408-5St-SGLHand-HFREQ_Fp2",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 3.694822225952521e-13,
+      "relative_input_rms": 1.5961150396519852e-14,
+      "seconds": 13.627929700000095
+    },
+    {
+      "key": "5F-SubjectA-160408-5St-SGLHand-HFREQ_Fz",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 1.0835776720341528e-13,
+      "relative_input_rms": 1.4331945592816677e-14,
+      "seconds": 13.01770199999737
+    },
+    {
+      "key": "5F-SubjectB-151110-5St-SGLHand_Fp1",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 6.403499952511993e-11,
+      "relative_input_rms": 5.2442950174217765e-12,
+      "seconds": 11.828245600001537
+    },
+    {
+      "key": "5F-SubjectB-151110-5St-SGLHand_Fp2",
+      "start": 70800,
+      "end": 94800,
+      "max_abs": 2.842170943040401e-14,
+      "relative_input_rms": 2.7099474134067225e-15,
+      "seconds": 13.193957799994678
+    }
+  ],
+  "passed": true
+}

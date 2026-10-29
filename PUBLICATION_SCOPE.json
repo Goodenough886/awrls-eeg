@@ -1,0 +1,14 @@
+{
+  "release": "2026-10-29",
+  "previous_repository_commit": "f16a30d2da500098f21d5e266a0167ce694bd837",
+  "core_and_weights": "byte-identical to FULL_RUN_FREEZE.json",
+  "source_split_change": "only machine-specific paths replaced; indices and source hashes unchanged",
+  "tables": "All rows retained; large CSV tables divided at row boundaries and gzip-compressed. Duplicate combined baseline table omitted.",
+  "excluded": [
+    "raw EEG/EOG and derived waveform datasets",
+    "unpublished manuscripts",
+    "ITMS code and template lacking redistribution permission",
+    "local delivery automation"
+  ],
+  "historical_execution": "Some archived scripts retain original Windows defaults and staging-layout assumptions; see README."
+}

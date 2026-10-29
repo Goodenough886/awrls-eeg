@@ -1,0 +1,122 @@
+{
+  "cases": [
+    {
+      "method": "MCA",
+      "epoch": 0,
+      "condition": null,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 5.551115123125783e-17,
+        "rrmse_s": 5.551115123125783e-17,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "MCA",
+      "epoch": 149,
+      "condition": -3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 0.0,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "MCA",
+      "epoch": 299,
+      "condition": 3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 5.551115123125783e-17,
+        "rrmse_s": 5.551115123125783e-17,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "FBSE-EWT-LPATV",
+      "epoch": 0,
+      "condition": null,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 2.220446049250313e-16,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 3.552713678800501e-15
+      }
+    },
+    {
+      "method": "FBSE-EWT-LPATV",
+      "epoch": 149,
+      "condition": -3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 1.7763568394002505e-15,
+        "rrmse_t": 1.1102230246251565e-16,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "FBSE-EWT-LPATV",
+      "epoch": 299,
+      "condition": 3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 0.0,
+        "rrmse_s": 5.551115123125783e-17,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "OVME-REG",
+      "epoch": 0,
+      "condition": null,
+      "absolute_metric_differences": {
+        "mae": 4.440892098500626e-16,
+        "rmse": 1.7763568394002505e-15,
+        "rrmse_t": 0.0,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "OVME-REG",
+      "epoch": 149,
+      "condition": -3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 0.0,
+        "rrmse_t": 0.0,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    },
+    {
+      "method": "OVME-REG",
+      "epoch": 299,
+      "condition": 3,
+      "absolute_metric_differences": {
+        "mae": 0.0,
+        "rmse": 1.7763568394002505e-15,
+        "rrmse_t": 0.0,
+        "rrmse_s": 0.0,
+        "cc": 0.0,
+        "dbp_total": 0.0
+      }
+    }
+  ],
+  "passed": true
+}

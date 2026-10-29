@@ -1,0 +1,64 @@
+{
+  "utc": "2026-10-28T13:13:45.132140+00:00",
+  "model_sha256": {
+    "dictionary.npz": "f6122366ecae4a88f79fea93e10a76b4e2b71522f5f9af52366195cb6486f97e",
+    "hybrid_tcn.pt": "2468b8aa65dfd3b7b789a1fe9fad6c73abb0d5e29c3270e285394f87d8fe59c9",
+    "hybrid_tcn_seed20261029.pt": "8caaad874f4f530958a0c461c05dd5c0f45008b549bb790db57624452f0c08d5",
+    "hybrid_tcn_seed20261030.pt": "6e3ed089f7194dd95b01c608408df932a08d2fee28567a5d6bb56cd3d164b155",
+    "standalone_tcn.pt": "aa1c5246d02d7bb5647adf7cc44a0192657e6efaa5ed2c0ff0621e49511a7180",
+    "standalone_tcn_seed20261029.pt": "f4aff9a7f6d18c62dcaa546f037c37eed5e9f732e0e4d599efcef3f660ba92b7",
+    "standalone_tcn_seed20261030.pt": "2ff4dc7db490bba0be69ba5162e9dcecb37e7e17619f9c9e243f9833f199a609"
+  },
+  "code_sha256": {
+    "awrls2\\__init__.py": "050a5003854accc2b5bc30a14e2ccbd1e59aee35d667e7ee60c6f33e37f4f92b",
+    "awrls2\\config.py": "ee037cfc17d17f62830a7dd5252903e34f087209ba874b62a19ef87aa15d5d6a",
+    "awrls2\\core.py": "637dbc87ecfd5caf22d2eea164f0e59c4c46c1926875b29d964de816daa2c101",
+    "awrls2\\detect.py": "654d7bf940902d1c35c505fb3cb309eaef5e8d8b525e23ad6c042fed3e0e05ac",
+    "awrls2\\estimate.py": "227d8fe6cca6a9ccd418e66012d0251ff1be42c22f08955c3366d374e3e084a6",
+    "awrls2\\evaluate.py": "9f077c4279fb2bf2a74c10d8ed40793c2d7330ca4261e92b267ac3a9e4045c7b",
+    "awrls2\\reference.py": "c7ea50d18f2cda65101aa55f26549519e9fe28564d0c14a27473eb4e6d18286c",
+    "awrls2\\wavelet_bank.py": "26d9043c73ac2ef3c55f10d385e3a65956e31abf12bde3fa825fe5631db50944",
+    "awrls3\\__init__.py": "d03057b7e33cd4f5ceeb1d43bdce981dbe786a47d9ca3ba0cd1c3c8bc1abdd51",
+    "awrls3\\config.py": "f908792899cdcefa47f173ba529d24979d08cbda433bf4f7ced40d34af81e94d",
+    "awrls3\\core.py": "8b49740fe800333da19fb7b32852ad086328c56b3b77828c1ab2c4e68bf56b40",
+    "awrls3\\dictionary.py": "d38faf1164dd3247a6202acaf569c6fd3e8686ba28a2a054616eb1a9999c4ca7",
+    "awrls3\\estimate.py": "f0ead82b14366d170967e6556cbbb5f295e25fec6c543da7e18044164146e5cf",
+    "awrls3\\neural.py": "ac0c0eef863dc79ddeba9d8e275336dd958e9d4b7502125287bcbfc39384a0eb",
+    "scripts\\audit.py": "66463288d43da72719dafba6cba6feb8daf9339393d794d9325447968f151dd4",
+    "scripts\\cache_training.py": "7cb562cad9f13929379cda7ad9d89a4520733069edcba5d819b6908c500ef462",
+    "scripts\\clean_signal.py": "a1aa5c4fd6320c3ee531d90be16c23793c4d8f6cdb6663605c24fafd0d1e139e",
+    "scripts\\data_paths.py": "806f53b44b7bbad81f2432118877c7ce5290c58d57cee6884b5945b5d8f68c8d",
+    "scripts\\evaluate_classical.py": "add3d261d2fdf26ba695d85b9ec44d5800cd7c1b28e323f6ddcadb13386965bb",
+    "scripts\\evaluate_models.py": "579d018219189fe34fbe31ae9ddefe321da7df71a7bbec688ffa0371cc0117a6",
+    "scripts\\evaluate_real.py": "b02783fd01e06a202718ebbb8ab400d8eeed180cc2cf8caa52098d08b77ad878",
+    "scripts\\freeze.py": "da404750794a56fa2f0fc0eba763db86408155d426f7e937d11e57ec8e375ba6",
+    "scripts\\make_figures.py": "ba10993ccdc6171f6cbfac8fdca41a618da05741ce742580f1929180fd8043fc",
+    "scripts\\prepare.py": "d8493d9d1c336bebf4953c92822b08a1294548474b0a5de45c7728ced7d70248",
+    "scripts\\runtime.py": "b2da9af4062d6649a8897f8ca19ac010adcf8cbb444d6c3bb33d1796f9f9f1c8",
+    "scripts\\summarize.py": "f064bbc0509c3d4ee85c05e7902dfe52bc3143062c8fa05f19cd0a8187664de8",
+    "scripts\\train_neural.py": "4375bed205d36c7c0738aca0aa533da16181a4721c1b24d2d5994237694e5fea",
+    "scripts\\train_repeats.py": "94f63ff5fc478b758591cff053816cef032690d477def324d5c26117242dfdf2"
+  },
+  "primary_candidate": "V3_HYBRID",
+  "comparators": [
+    "V2",
+    "V3_dictionary",
+    "V3_full",
+    "TCN_CONTROL",
+    "INPUT"
+  ],
+  "primary_outcome": "Mean per-source RRMSE_t averaged across six physical-power SNRs",
+  "paired_unit": "Unique EEG/EOG source pair; average SNR repetitions before paired inference",
+  "clean_control": "RRMSE_t plus fraction with any >1e-8 absolute change; do not equate attenuation with rejection",
+  "secondary_clean_control": "Fraction with RMS modification greater than 5% of input RMS; descriptive threshold, not clinical criterion",
+  "no_winner_guarantee": "All frozen candidates reported. No retuning on fresh test or Kaya.",
+  "seed_repeats": [
+    20261028,
+    20261029,
+    20261030
+  ],
+  "limitations": [
+    "Three training seeds; no subject identity split",
+    "Kaya remains retrospective ICA silver reference"
+  ]
+}

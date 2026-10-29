@@ -1,0 +1,2 @@
+mne==1.13.2
+python-picard==0.8.2

@@ -1,0 +1,142 @@
+{
+  "cases": [
+    {
+      "case": "5F-SubjectA-160405-5St-SGLHand_Fp1",
+      "max_abs": 1.2789769243681803e-13,
+      "relative_input_rms": 4.316533332105622e-15,
+      "numpy_seconds": 13.697599200000695,
+      "native_seconds": 4.545829999995476,
+      "same_peaks": true
+    },
+    {
+      "case": "5F-SubjectC-151204-5St-SGLHand_Fp1",
+      "max_abs": 9.592326932761353e-14,
+      "relative_input_rms": 4.007983853120209e-15,
+      "numpy_seconds": 12.415031100004853,
+      "native_seconds": 4.2071339000031,
+      "same_peaks": true
+    },
+    {
+      "case": "5F-SubjectF-160209-5St-SGLHand_Fp1",
+      "max_abs": 8.526512829121202e-14,
+      "relative_input_rms": 3.3870413515791844e-15,
+      "numpy_seconds": 15.043129000005138,
+      "native_seconds": 5.028138499998022,
+      "same_peaks": true
+    },
+    {
+      "case": "5F-SubjectI-160723-5St-SGLHand-HFREQ_Fp1",
+      "max_abs": 1.1368683772161603e-13,
+      "relative_input_rms": 3.3369302812235524e-15,
+      "numpy_seconds": 14.613783699998748,
+      "native_seconds": 5.06063439999707,
+      "same_peaks": true
+    },
+    {
+      "case": "CLASubjectB1512153StLRHand_Fp1",
+      "max_abs": 4.75175454539567e-14,
+      "relative_input_rms": 3.879726679761613e-15,
+      "numpy_seconds": 13.749909499994828,
+      "native_seconds": 4.54908940000314,
+      "same_peaks": true
+    },
+    {
+      "case": "CLASubjectE1601193StLRHand_Fp1",
+      "max_abs": 1.4210854715202004e-13,
+      "relative_input_rms": 3.4974573536529852e-15,
+      "numpy_seconds": 20.424900099998922,
+      "native_seconds": 5.890743399999337,
+      "same_peaks": true
+    },
+    {
+      "case": "FREEFORMSubjectC1512082StLRHand_Fp1",
+      "max_abs": 1.1368683772161603e-13,
+      "relative_input_rms": 2.9921748925341152e-15,
+      "numpy_seconds": 12.343999699995038,
+      "native_seconds": 4.336318499998015,
+      "same_peaks": true
+    },
+    {
+      "case": "HaLTSubjectB1602256StLRHandLegTongue_Fp1",
+      "max_abs": 8.08242361927114e-14,
+      "relative_input_rms": 4.306989232689389e-15,
+      "numpy_seconds": 12.94941220000328,
+      "native_seconds": 3.904101100000844,
+      "same_peaks": true
+    },
+    {
+      "case": "HaLTSubjectE1603046StLRHandLegTongue_Fp1",
+      "max_abs": 9.237055564881302e-14,
+      "relative_input_rms": 3.4089057452099995e-15,
+      "numpy_seconds": 11.919617700004892,
+      "native_seconds": 3.111994600003527,
+      "same_peaks": true
+    },
+    {
+      "case": "HaLTSubjectG1604126StLRHandLegTongue_Fp1",
+      "max_abs": 6.252776074688882e-13,
+      "relative_input_rms": 9.285187546331097e-15,
+      "numpy_seconds": 11.341021800006274,
+      "native_seconds": 3.500658700002532,
+      "same_peaks": true
+    },
+    {
+      "case": "HaLTSubjectK1610276StLRHandLegTongue_Fp1",
+      "max_abs": 2.842170943040401e-14,
+      "relative_input_rms": 1.0536010620247784e-15,
+      "numpy_seconds": 9.293885400002182,
+      "native_seconds": 3.2738280999983544,
+      "same_peaks": true
+    },
+    {
+      "case": "NoMTSubjectF1604220StNoMotor_Fp1",
+      "max_abs": 3.539391002504999e-13,
+      "relative_input_rms": 9.767018846189762e-15,
+      "numpy_seconds": 9.832857900000818,
+      "native_seconds": 3.378013599998667,
+      "same_peaks": true
+    },
+    {
+      "case": "NoMTSubjectM1611160StNoMotor_Fp1",
+      "max_abs": 1.545430450278218e-13,
+      "relative_input_rms": 1.140623673441129e-14,
+      "numpy_seconds": 11.528934900001332,
+      "native_seconds": 3.7341748000035295,
+      "same_peaks": true
+    },
+    {
+      "case": "internal_0",
+      "max_abs": 1.5631940186722204e-13,
+      "relative_input_rms": 5.844750417706214e-15,
+      "numpy_seconds": 4.3145918999944115,
+      "native_seconds": 1.3507529000053182,
+      "same_peaks": true
+    },
+    {
+      "case": "internal_1",
+      "max_abs": 1.1368683772161603e-13,
+      "relative_input_rms": 3.3431166713679952e-15,
+      "numpy_seconds": 3.9040924000000814,
+      "native_seconds": 1.3743630000026315,
+      "same_peaks": true
+    },
+    {
+      "case": "internal_2",
+      "max_abs": 3.481659405224491e-13,
+      "relative_input_rms": 1.057479567180778e-14,
+      "numpy_seconds": 4.62392859999818,
+      "native_seconds": 1.3131007999982103,
+      "same_peaks": true
+    },
+    {
+      "case": "internal_3",
+      "max_abs": 8.526512829121202e-14,
+      "relative_input_rms": 2.210459292759355e-15,
+      "numpy_seconds": 3.5248491000020294,
+      "native_seconds": 1.0922188999975333,
+      "same_peaks": true
+    }
+  ],
+  "acceptance_relative_input_rms": 1e-07,
+  "passed": true
+}

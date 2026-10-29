@@ -1,0 +1,33 @@
+{
+  "cases": [
+    {
+      "case": "5F-SubjectA-160405-5St-SGLHand_Fp1.npy",
+      "bitwise_equal": true,
+      "max_abs": 0.0,
+      "before_seconds": 27.682550699995772,
+      "cached_seconds": 25.448318000002473
+    },
+    {
+      "case": "CLASubjectC1512163StLRHand_Fz.npy",
+      "bitwise_equal": true,
+      "max_abs": 0.0,
+      "before_seconds": 23.809053799996036,
+      "cached_seconds": 22.519762199997786
+    },
+    {
+      "case": "HaLTSubjectF1602036StLRHandLegTongue_Fp1.npy",
+      "bitwise_equal": true,
+      "max_abs": 0.0,
+      "before_seconds": 22.529047200005152,
+      "cached_seconds": 17.62171930000477
+    },
+    {
+      "case": "NoMTSubjectM1611160StNoMotor_Fz.npy",
+      "bitwise_equal": true,
+      "max_abs": 0.0,
+      "before_seconds": 26.752425099999527,
+      "cached_seconds": 19.61489050000091
+    }
+  ],
+  "all_bitwise_equal": true
+}

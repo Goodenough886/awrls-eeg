@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "frozen_core_and_weights_unchanged": true,
+  "split_indices_and_source_hashes_unchanged": true,
+  "split_csv_rows_verified": 194392,
+  "synthetic_inference_methods": 5,
+  "existing_unit_tests_passed": 20,
+  "secret_pattern_scan": "PASS",
+  "raw_waveform_and_manuscript_exclusion": "PASS"
+}

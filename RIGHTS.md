@@ -8,5 +8,5 @@ hosting platform's terms, contact the repository owner.
 
 This notice does not restrict or replace licenses already granted by third-party
 copyright holders. The VME and HHO component licenses are retained verbatim in
-`official_ovme/`; their notices apply to the corresponding ported portions and
+`baseline_source/official_ovme/`; their notices apply to the corresponding ported portions and
 derived tests. See `THIRD_PARTY_NOTICES.md` for scope and exclusions.

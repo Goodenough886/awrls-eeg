@@ -1,0 +1,506 @@
+[
+  {
+    "source_table": "internal_all_methods_by_epoch.csv",
+    "rows": 35700,
+    "columns": 63,
+    "parts": [
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part006.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part007.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part008.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part009.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part010.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part011.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part012.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part013.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part014.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part015.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part016.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part017.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/internal_all_methods_by_epoch.part018.csv.gz",
+        "rows": 1700
+      }
+    ],
+    "source_sha256": "8ea4cd795974c38b3be99cb0a0ed7a7b876119e6ee9292ef6399917010044675"
+  },
+  {
+    "source_table": "kaya73_by_unit.csv",
+    "rows": 5256,
+    "columns": 37,
+    "parts": [
+      {
+        "path": "published_results/kaya73_by_unit.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/kaya73_by_unit.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/kaya73_by_unit.part003.csv.gz",
+        "rows": 1256
+      }
+    ],
+    "source_sha256": "d829bb388e247edf607c093f687a51194f9f9a3cf7615fff1d322a3822457e48"
+  },
+  {
+    "source_table": "kaya75_by_unit.csv",
+    "rows": 5400,
+    "columns": 37,
+    "parts": [
+      {
+        "path": "published_results/kaya75_by_unit.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/kaya75_by_unit.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/kaya75_by_unit.part003.csv.gz",
+        "rows": 1400
+      }
+    ],
+    "source_sha256": "5b2c80028a1e3f78b95cec83249273000e3d66affcfee9c9a3f4405cef8169d9"
+  },
+  {
+    "source_table": "public_all_methods_by_epoch.csv",
+    "rows": 50414,
+    "columns": 24,
+    "parts": [
+      {
+        "path": "published_results/public_all_methods_by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part006.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part007.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part008.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part009.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part010.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part011.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part012.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part013.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part014.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part015.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part016.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part017.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part018.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part019.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part020.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part021.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part022.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part023.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part024.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part025.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/public_all_methods_by_epoch.part026.csv.gz",
+        "rows": 414
+      }
+    ],
+    "source_sha256": "8b0c98a395ccc145aa47fa5a9170f4878b0ee99b8bb13d95135a1ecfd6cf9464"
+  },
+  {
+    "source_table": "previous_v2_evidence/ablation_all/by_epoch.csv",
+    "rows": 11400,
+    "columns": 43,
+    "parts": [
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/by_epoch.part006.csv.gz",
+        "rows": 1400
+      }
+    ],
+    "source_sha256": "fe434633f1d80ee898b3debdc44affd253697671d69f2ec718b47bee5e46e724"
+  },
+  {
+    "source_table": "previous_v2_evidence/ablation_all/snr_sweep_by_epoch.csv",
+    "rows": 5400,
+    "columns": 44,
+    "parts": [
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/snr_sweep_by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/snr_sweep_by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/ablation_all/snr_sweep_by_epoch.part003.csv.gz",
+        "rows": 1400
+      }
+    ],
+    "source_sha256": "d3f8c0b049d661d505b5b0f66b22349e21f691a21fad5ad5b9869f8cdbf67044"
+  },
+  {
+    "source_table": "previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.csv",
+    "rows": 11250,
+    "columns": 45,
+    "parts": [
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/sensitivity_dev/sensitivity_by_epoch.part006.csv.gz",
+        "rows": 1250
+      }
+    ],
+    "source_sha256": "39479bcf2d88f7df531b7e92caa71ac662f76b847adc1f781e5e91009b964ac8"
+  },
+  {
+    "source_table": "previous_v2_evidence/supplementary/conditional_sensitivity_by_epoch.csv",
+    "rows": 2250,
+    "columns": 45,
+    "parts": [
+      {
+        "path": "published_results/previous_v2_evidence/supplementary/conditional_sensitivity_by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/previous_v2_evidence/supplementary/conditional_sensitivity_by_epoch.part002.csv.gz",
+        "rows": 250
+      }
+    ],
+    "source_sha256": "5cc20724b6b45070a127616703d5b302ed070541f5d842f54ff23fd0f3dd20e1"
+  },
+  {
+    "source_table": "previous_v2_evidence/supplementary/resampling_holdout_by_epoch.csv",
+    "rows": 600,
+    "columns": 44,
+    "parts": [
+      {
+        "path": "published_results/previous_v2_evidence/supplementary/resampling_holdout_by_epoch.part001.csv.gz",
+        "rows": 600
+      }
+    ],
+    "source_sha256": "92b1408247a99d7911416ed2310699cf34276a15393db40698e19023689eed61"
+  },
+  {
+    "source_table": "frozen_original/test_models.csv",
+    "rows": 38780,
+    "columns": 18,
+    "parts": [
+      {
+        "path": "published_results/frozen_original/test_models.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part006.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part007.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part008.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part009.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part010.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part011.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part012.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part013.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part014.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part015.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part016.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part017.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part018.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part019.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/test_models.part020.csv.gz",
+        "rows": 780
+      }
+    ],
+    "source_sha256": "75e6442e2c4fcf7b4a3e129b363717afc428cc085bb27a38cb54aaf38c358906"
+  },
+  {
+    "source_table": "frozen_original/full_internal/by_epoch.csv",
+    "rows": 24000,
+    "columns": 25,
+    "parts": [
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part002.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part003.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part004.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part005.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part006.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part007.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part008.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part009.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part010.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part011.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_internal/by_epoch.part012.csv.gz",
+        "rows": 2000
+      }
+    ],
+    "source_sha256": "7b3fc0b2b6a140a6c2a3b56c3f7599edcdfa2afd72fb14db201d5c7c0a7eca7f"
+  },
+  {
+    "source_table": "frozen_original/full_kaya/by_unit.csv",
+    "rows": 3942,
+    "columns": 34,
+    "parts": [
+      {
+        "path": "published_results/frozen_original/full_kaya/by_unit.part001.csv.gz",
+        "rows": 2000
+      },
+      {
+        "path": "published_results/frozen_original/full_kaya/by_unit.part002.csv.gz",
+        "rows": 1942
+      }
+    ],
+    "source_sha256": "c12c3cfa999d601b3afda768430f67a9c631d3c75bf14fc671f5b481ad337d9b"
+  }
+]

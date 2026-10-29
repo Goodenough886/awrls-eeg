@@ -1,0 +1,37 @@
+{
+  "cases": [
+    {
+      "case": "5F-SubjectA-160405-5St-SGLHand_Fp1.npy",
+      "max_abs": 8.526512829121202e-14,
+      "relative_input_rms": 2.9802757928158808e-15,
+      "before_seconds": 21.99338020000141,
+      "fastnorm_seconds": 14.17985950000002,
+      "same_peaks": true
+    },
+    {
+      "case": "CLASubjectC1512163StLRHand_Fz.npy",
+      "max_abs": 2.842170943040401e-14,
+      "relative_input_rms": 4.6013238363380845e-15,
+      "before_seconds": 23.0657257999992,
+      "fastnorm_seconds": 15.22885580000002,
+      "same_peaks": true
+    },
+    {
+      "case": "HaLTSubjectF1602036StLRHandLegTongue_Fp1.npy",
+      "max_abs": 8.526512829121202e-14,
+      "relative_input_rms": 2.9611295811325263e-15,
+      "before_seconds": 18.500742099997296,
+      "fastnorm_seconds": 13.174502799993206,
+      "same_peaks": true
+    },
+    {
+      "case": "NoMTSubjectM1611160StNoMotor_Fz.npy",
+      "max_abs": 1.4210854715202004e-14,
+      "relative_input_rms": 2.486636400087145e-15,
+      "before_seconds": 22.49330850000115,
+      "fastnorm_seconds": 13.978976500002318,
+      "same_peaks": true
+    }
+  ],
+  "passed": true
+}
